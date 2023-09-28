@@ -10,9 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
-
-
-import django.conf.app_template.migrations
+from pathlib import Path
 
 
 
