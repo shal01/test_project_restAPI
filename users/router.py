@@ -8,4 +8,4 @@ router=routers.DefaultRouter()
 
 router.register(r'user',UserViewSet)
 
-router.register(r'profiles',ProfileViewSet)
+router.register(r'profile',ProfileViewSet)
